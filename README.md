@@ -54,9 +54,9 @@ Apasionado por el análisis de datos, combinando experiencia en operaciones y pr
 
 ## 🔥 Las estadisticas del repositorio
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lozaner&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lozaner&theme=chartreuse-dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lozaner&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
