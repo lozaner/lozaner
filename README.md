@@ -50,7 +50,9 @@ Apasionado por el análisis de datos, combinando experiencia en operaciones y pr
 
 * :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo en compañia de la herramienta AI 
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elpidio-ramirez-lozano/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Elpidio-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elpidio-ramirez-lozano/)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
