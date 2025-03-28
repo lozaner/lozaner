@@ -9,7 +9,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/@ElpidioLozano#4012)
 
 <h1>
-  Hola soy Elpidio Ramirez. ¡Encantado de conocerte!
+  ¡Encantado de conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 ---
@@ -27,6 +27,15 @@
   </a>
 
 </div>
+
+
+---
+ <div id="header" align="left">
+
+### :woman_technologist: Sobre mí :
+
+
+Apasionada de la tecnología y disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
 ## Hi there 👋
