@@ -52,7 +52,11 @@ Apasionado por el análisis de datos, combinando experiencia en operaciones y pr
 
 * :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Elpidio-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elpidio-ramirez-lozano/)
 
+## 🔥 Las estadisticas del repositorio
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lozaner&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lozaner&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
