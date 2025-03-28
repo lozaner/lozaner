@@ -8,9 +8,10 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@lozaner)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/@ElpidioLozano#4012)
 
-<div id="header" align="center">
-  <img decoding="async" src="https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github.png" width="800"/>
-</div>
+<h1>
+  Hola soy Elpidio Ramirez. ¡Encantado de conocerte!
+  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 ---
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
