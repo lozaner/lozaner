@@ -40,26 +40,19 @@ Si quieres contactarme, puedes encontrarme en Discord: ElpidioLozano#4012
 ### :man_technologist: Sobre mí :
 
 
-Apasionada de la tecnología y disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Apasionado por el análisis de datos, combinando experiencia en operaciones y producción para obtener insights estratégicos 📊🚀
+ <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
-## Hi there 👋
+* :telescope: Actualmente estoy trabajando como agricultos cañero y siembra de arboles frutales y maderables :muscle:
+
+* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
+
+* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo en compañia de la herramienta AI 
+
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elpidio-ramirez-lozano/)
 
 
-<!--
-**lozaner/lozaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
